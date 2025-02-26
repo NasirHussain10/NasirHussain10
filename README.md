@@ -16,7 +16,7 @@
   <a href="mailto:nasirhussian.asadi125@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-6C22A6?style=for-the-badge&logo=gmail&logoColor=white" />
   </a
-  <a href="https://www.linkedin.com/in/nasir-hussain-9a4345321/" >
+  <a href="https://www.linkedin.com/in/nasir-hussain-9a4345321" >
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
